@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title desc">
+  <title id="title">Merry Christmas</title>
+  <desc id="desc">A quiet cream-colored Christmas card with a small green tree, a gold star, and a few red ornaments.</desc>
+  <rect width="960" height="240" rx="12" fill="#F7F5EF"/>
+  <text x="56" y="65" fill="#7D8177" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="3">HILARY'S LITTLE CORNER</text>
+  <text x="54" y="125" fill="#345244" font-family="Georgia, 'Times New Roman', serif" font-size="46">Merry Christmas</text>
+  <text x="56" y="162" fill="#7D8177" font-family="Arial, Helvetica, sans-serif" font-size="15">Wishing you warmth &amp; little joys.</text>
+  <path d="M56 191H108" stroke="#B39A63" stroke-width="2"/>
+  <g transform="translate(775 48)">
+    <path d="M0 0 3 7 11 8 5 13 7 21 0 17-7 21-5 13-11 8-3 7Z" fill="#B39A63"/>
+    <rect x="-5" y="118" width="10" height="25" rx="1" fill="#94846D"/>
+    <path d="M0 25-27 67H27Z" fill="#345244"/>
+    <path d="M0 48-38 99H38Z" fill="#345244"/>
+    <path d="M0 76-50 128H50Z" fill="#345244"/>
+    <circle cx="-12" cy="67" r="3" fill="#A85B56"/>
+    <circle cx="15" cy="92" r="3" fill="#B39A63"/>
+    <circle cx="-24" cy="113" r="3" fill="#A85B56"/>
+  </g>
+  <path d="M706 193H844" stroke="#DCDDD3" stroke-width="1"/>
+</svg>
